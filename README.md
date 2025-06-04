@@ -66,7 +66,7 @@ Load the .pbix file in Power BI Desktop to view and interact with the dashboard.
 
 Use sql project.pdf for detailed query references and SQL logic.
 
-📌 Key Insights
+##   Key Insights
 The Consumer segment brought the highest profit.
 
 Technology was the most profitable category.
